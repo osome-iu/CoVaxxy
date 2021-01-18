@@ -8,7 +8,7 @@ An on-going collection of English-language Twitter posts about COVID-19 vaccines
 If you use this data please cite the following papers: 
 
 # Dashboard
-We have developed a live dashboard to allow people to visualize preliminary results. It is available here: 
+We have developed a live dashboard to allow people to visualize preliminary results. It is available here: https://osome.iu.edu/tools/covaxxy
 
 # Team
 
