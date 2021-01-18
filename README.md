@@ -1,6 +1,6 @@
 # CoVaxxy: CoVaxxy: A global collection of English Twitter posts about COVID-19 vaccines #
 
-The goal of this project is to investigate the impact of online information on COVID-19 vaccine uptake and health outcomes.
+The goal of this project is to investigate the impact of online information on COVID-19 vaccine uptake and health outcomes. <br>
 Reference paper(s): 
 
 # Data
