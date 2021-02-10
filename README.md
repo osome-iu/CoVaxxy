@@ -33,3 +33,7 @@ We have developed a live dashboard to allow people to visualize descriptive stat
 # Acknowledgments
 
 This project is supported in part by the Knight Foundation and Craig Newmark Philanthropies.
+
+## Complimentary Data Sources:
+* Our vaccination data is representative of the Centers for Disease Control and Prevention data found [here](https://covid.cdc.gov/covid-data-tracker/#vaccinations), which we thank the Our World in Data organization for compiling that data [here](https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv).
+* We also utilize [Carnegie Mellon's Delhpi Epidata API](https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/fb-survey.html#vaccination-indicators) survey data for vaccine acceptance and refusal percentages.
