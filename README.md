@@ -16,7 +16,7 @@ We have developed a live dashboard to allow people to visualize descriptive stat
 
 # Team
 
-* Matthew Deverna, Bao Truong, John Bollenbacher, David Axelrod, Cristopher Torres-Lugo, Kai-Cheng Yang, [Fil Menczer](https://cnets.indiana.edu/fil/), John Bryden *([Observatory on Social Media](https://osome.iu.edu/), Indiana University)* 
+* [Matthew R. DeVerna](https://www.matthewdeverna.com/), Bao Truong, John Bollenbacher, David Axelrod, Cristopher Torres-Lugo, Kai-Cheng Yang, [Fil Menczer](https://cnets.indiana.edu/fil/), John Bryden *([Observatory on Social Media](https://osome.iu.edu/), Indiana University)* 
 * Francesco Pierri *(Department of Electronics, Information and Bioengineering, Politecnico di Milano)* 
 * Niklas Loynes *(School of Social Sciences, University of Manchester)*
 
