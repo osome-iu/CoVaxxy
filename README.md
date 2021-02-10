@@ -16,7 +16,7 @@ Some notes on the query syntax of Twitter's filtered stream API:
 
 More details on the data collection can be found in our paper describing the collection of English-language Twitter posts about COVID-19 vaccines:
 
-Matthew DeVerna, Francesco Pierri, Bao Truong, John Bollenbacher, David Axelrod, Niklas Loynes, Cristopher Torres-Lugo, Kai-Cheng Yang, Filippo Menczer, and John Bryden (2021) **"CoVaxxy: A global collection of English Twitter posts about COVID-19 vaccines."** Preprint arXiv:2101.07694 https://arxiv.org/abs/2101.07694
+* [Matthew R. DeVerna](https://www.matthewdeverna.com/), Francesco Pierri, Bao Truong, John Bollenbacher, David Axelrod, Niklas Loynes, Cristopher Torres-Lugo, Kai-Cheng Yang, Filippo Menczer, and John Bryden (2021) **"CoVaxxy: A global collection of English Twitter posts about COVID-19 vaccines."** Preprint arXiv:2101.07694 https://arxiv.org/abs/2101.07694
 
 If you use this data, please cite this reference paper.
 
