@@ -17,7 +17,7 @@ Some notes on the query syntax of Twitter's filtered stream API:
 > # Paper
 > More details on the data collection can be found in our paper describing the collection of English-language Twitter posts about COVID-19 vaccines:
 >
-> * [Matthew R. DeVerna](https://www.matthewdeverna.com/), Francesco Pierri, [Bao Truong](https://btrantruong.github.io/), [John Bollenbacher](https://jbollenbacher.github.io/), David Axelrod, Niklas Loynes, [Cristopher Torres-Lugo](http://christorreslugo.com/), [Kai-Cheng Yang](http://www.kaichengyang.me/), [Fil Menczer](https://cnets.indiana.edu/fil/), and [John Bryden](http://jbryden.co.uk/home/) (2021) **"CoVaxxy: A global collection of English Twitter posts about COVID-19 vaccines."** Preprint arXiv:2101.07694 https://arxiv.org/abs/2101.07694
+> * [Matthew R. DeVerna](https://www.matthewdeverna.com/), Francesco Pierri, [Bao Truong](https://btrantruong.github.io/), [John Bollenbacher](https://jbollenbacher.github.io/), [David Axelrod](https://cns-nrt.indiana.edu/students/trainees/2019/David-Axelrod.html), Niklas Loynes, [Cristopher Torres-Lugo](http://christorreslugo.com/), [Kai-Cheng Yang](http://www.kaichengyang.me/), [Fil Menczer](https://cnets.indiana.edu/fil/), and [John Bryden](http://jbryden.co.uk/home/) (2021) **"CoVaxxy: A global collection of English Twitter posts about COVID-19 vaccines."** Preprint arXiv:2101.07694 https://arxiv.org/abs/2101.07694
 >
 > If you use this data, please cite this reference paper.
 
@@ -27,7 +27,7 @@ We have developed a live dashboard to allow people to visualize descriptive stat
 
 # Team
 
-* [Matthew R. DeVerna](https://www.matthewdeverna.com/), [Bao Truong](https://btrantruong.github.io/), [John Bollenbacher](https://jbollenbacher.github.io/), David Axelrod, [Cristopher Torres-Lugo](http://christorreslugo.com/), [Kai-Cheng Yang](http://www.kaichengyang.me/), [Fil Menczer](https://cnets.indiana.edu/fil/), [John Bryden](http://jbryden.co.uk/home/) *([Observatory on Social Media](https://osome.iu.edu/), Indiana University)* 
+* [Matthew R. DeVerna](https://www.matthewdeverna.com/), [Bao Truong](https://btrantruong.github.io/), [John Bollenbacher](https://jbollenbacher.github.io/), [David Axelrod](https://cns-nrt.indiana.edu/students/trainees/2019/David-Axelrod.html), [Cristopher Torres-Lugo](http://christorreslugo.com/), [Kai-Cheng Yang](http://www.kaichengyang.me/), [Fil Menczer](https://cnets.indiana.edu/fil/), [John Bryden](http://jbryden.co.uk/home/) *([Observatory on Social Media](https://osome.iu.edu/), Indiana University)* 
 * Francesco Pierri *(Department of Electronics, Information and Bioengineering, Politecnico di Milano)* 
 * Niklas Loynes *(School of Social Sciences, University of Manchester)*
 
