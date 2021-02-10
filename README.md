@@ -13,8 +13,8 @@ If you use this data please cite the reference paper(s) above.
 We have developed a live dashboard to allow people to visualize descriptive statistics and preliminary results. It is available here: https://osome.iu.edu/tools/covaxxy
 
 # Team
-Matthew Deverna, Bao Truong, John Bollenbacher, David Axelrod, Cristopher Torres-Lugo, Kai-Cheng Yang, Fil Menczer, John Bryden (Observatory on Social Media, Indiana University) <br>
-Francesco Pierri (Department of Electronics, Information and Bioengineering, Politecnico di Milano) <br>
-Niklas Loynes (School of Social Sciences, University of Manchester)
+Matthew Deverna, Bao Truong, John Bollenbacher, David Axelrod, Cristopher Torres-Lugo, Kai-Cheng Yang, Fil Menczer, John Bryden *(Observatory on Social Media, Indiana University)* <br>
+Francesco Pierri *(Department of Electronics, Information and Bioengineering, Politecnico di Milano)* <br>
+Niklas Loynes *(School of Social Sciences, University of Manchester)*
 
 # Acknowledgments
