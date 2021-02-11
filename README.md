@@ -4,7 +4,7 @@ The goal of this project is to investigate the impact of online information on C
 
 ## Twitter Data
 
-An on-going collection of English-language Twitter posts about COVID-19 vaccines is available [here](https://zenodo.org/record/4530212).
+An on-going collection of English-language Twitter posts about COVID-19 vaccines is available [here](https://doi.org/10.5281/zenodo.4526494).
 
 To create as complete a set of Twitter posts related to COVID-19 vaccines as possible, we carefully select a list of keywords through a snowball sampling technique. We start with the two most relevant keywords, i.e., `covid` and `vaccine`, as our initial seeds.
 Next, we gather tweets utilizing the filtered stream endpoint of the Twitter API for three hours. From these gathered tweets, we then identify potential keywords that frequently co-occur with the seeds, adding them to our seed list only after manually ensuring they are closely related to our topic. This process was repeated six times between Dec. 15, 2020 and Jan. 2, 2021 with each iteration's data collection taking place at different times of the day to capture tweets from different geographic areas and demographics. The seed list serves as our initial keyword list.
