@@ -2,7 +2,7 @@
 
 The goal of this project is to investigate the impact of online information on COVID-19 vaccine uptake and health outcomes. 
 
-# Twitter Data
+## Twitter Data
 
 An on-going collection of English-language Twitter posts about COVID-19 vaccines is available [here](https://zenodo.org/record/4530212).
 
@@ -14,14 +14,14 @@ Some notes on the query syntax of Twitter's filtered stream API:
 * Queries that include keywords also match hashtags, URLs, and substrings. For example, `covid` matches `cnn.com/covid` and `#covid19`.
 * Using `covid19 pfizer` as a composite matching phrase will capture tweets that contain `covid19` *and* `pfizer`. On the other hand, including `covid19`, `pfizer` as separate keywords will capture tweets that contain `covid19` *or* `pfizer`.
 
-# Paper
+## Paper
 More details on the data collection can be found in our paper describing the collection of English-language Twitter posts about COVID-19 vaccines:
 
 * [Matthew R. DeVerna](https://www.matthewdeverna.com/), Francesco Pierri, [Bao Truong](https://btrantruong.github.io/), [John Bollenbacher](https://jbollenbacher.github.io/), [David Axelrod](https://cns-nrt.indiana.edu/students/trainees/2019/David-Axelrod.html), Niklas Loynes, [Cristopher Torres-Lugo](http://christorreslugo.com/), [Kai-Cheng Yang](http://www.kaichengyang.me/), [Fil Menczer](https://cnets.indiana.edu/fil/), and [John Bryden](http://jbryden.co.uk/home/) (2021) **"CoVaxxy: A global collection of English Twitter posts about COVID-19 vaccines."** Preprint arXiv:2101.07694 https://arxiv.org/abs/2101.07694
 
 If you use this data, please cite this reference paper.
 
-# Dashboard
+## Dashboard
 
 We have developed a live dashboard to allow people to visualize descriptive statistics and preliminary results. It is available here: https://osome.iu.edu/tools/covaxxy
 
@@ -30,12 +30,12 @@ Complimentary data sources used by the CoVaxxy dashboard:
 * Vaccination data from the Centers for Disease Control and Prevention data found [here](https://covid.cdc.gov/covid-data-tracker/#vaccinations), as compiled by Our World in Data [here](https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv).
 * Vaccine acceptance and refusal data from Carnegie Mellon University's [Delphi Epidata API](https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/fb-survey.html#vaccination-indicators) survey data, created by the [Delphi Research Group](https://delphi.cmu.edu/about/).
 
-# Team
+## Team
 
 * [Matthew R. DeVerna](https://www.matthewdeverna.com/), [Bao Truong](https://btrantruong.github.io/), [John Bollenbacher](https://jbollenbacher.github.io/), [David Axelrod](https://cns-nrt.indiana.edu/students/trainees/2019/David-Axelrod.html), [Cristopher Torres-Lugo](http://christorreslugo.com/), [Kai-Cheng Yang](http://www.kaichengyang.me/), [Fil Menczer](https://cnets.indiana.edu/fil/), [John Bryden](http://jbryden.co.uk/home/) *([Observatory on Social Media](https://osome.iu.edu/), Indiana University)* 
 * Francesco Pierri *(Department of Electronics, Information and Bioengineering, Politecnico di Milano)* 
 * Niklas Loynes *(School of Social Sciences, University of Manchester)*
 
-# Acknowledgments
+## Acknowledgments
 
 This project is supported in part by the Knight Foundation and Craig Newmark Philanthropies.
