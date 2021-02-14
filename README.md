@@ -1,6 +1,6 @@
 # CoVaxxy: A global collection of English Twitter posts about COVID-19 vaccines 
 
-The goal of this project is to investigate the impact of online information on COVID-19 vaccine uptake and health outcomes. 
+This project, conducted by Indiana University’s Observatory on Social Media (OSoMe) in collaboration with colleagues from Politecnico di Milano, seeks to track and investigate how online information impacts COVID-19 vaccine uptake and health outcomes. We offer public access to a [large collection of vaccine-related tweets](https://zenodo.org/record/4540312#.YClLsGNOlhE) that are gathered in real-time and updated daily (see our [data collection paper](https://arxiv.org/abs/2101.07694) for more details). We combine this with [vaccine uptake and survey data](#dashboard) to create the [CoVaxxy dashboard](http://osome.iu.edu/tools/covaxxy), a web-page that allows anyone to visualize descriptive statistics and preliminary results,
 
 ## Twitter Data
 
