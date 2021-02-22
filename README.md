@@ -38,4 +38,4 @@ Complimentary data sources used by the CoVaxxy dashboard:
 
 ## Acknowledgments
 
-This project is supported in part by the Knight Foundation and Craig Newmark Philanthropies.
+This project is supported in part by the Knight Foundation and Craig Newmark Philanthropies. We used the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1548562.
