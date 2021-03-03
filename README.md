@@ -30,6 +30,9 @@ Complimentary data sources used by the CoVaxxy dashboard:
 * Vaccination data from the Centers for Disease Control and Prevention data found [here](https://covid.cdc.gov/covid-data-tracker/#vaccinations), as compiled by Our World in Data [here](https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv).
 * Vaccine acceptance and refusal data from Carnegie Mellon University's [Delphi Epidata API](https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/fb-survey.html#vaccination-indicators) survey data, created by the [Delphi Research Group](https://delphi.cmu.edu/about/).
 
+VaccinItaly:
+ * A member of the CoVaxxy team, [Francesco Pierri](https://frapierri.github.io), has also developed the [VaccinItaly dashboard](http://genomic.elet.polimi.it/vaccinitaly/) which is similar to CoVaxxy. This dashboard, however, specifically monitors Italian conversations around vaccines on Facebook and Twitter.  
+
 ## Team
 
 * [Matthew R. DeVerna](https://www.matthewdeverna.com/), [Bao Truong](https://btrantruong.github.io/), [John Bollenbacher](https://jbollenbacher.github.io/), [David Axelrod](https://cns-nrt.indiana.edu/students/trainees/2019/David-Axelrod.html), [Cristopher Torres-Lugo](http://christorreslugo.com/), [Kai-Cheng Yang](http://www.kaichengyang.me/), [Fil Menczer](https://cnets.indiana.edu/fil/), [John Bryden](http://jbryden.co.uk/home/) *([Observatory on Social Media](https://osome.iu.edu/), Indiana University)* 
