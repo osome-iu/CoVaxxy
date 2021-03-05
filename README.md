@@ -14,6 +14,9 @@ Some notes on the query syntax of Twitter's filtered stream API:
 * Queries that include keywords also match hashtags, URLs, and substrings. For example, `covid` matches `cnn.com/covid` and `#covid19`.
 * Using `covid19 pfizer` as a composite matching phrase will capture tweets that contain `covid19` *and* `pfizer`. On the other hand, including `covid19`, `pfizer` as separate keywords will capture tweets that contain `covid19` *or* `pfizer`.
 
+#### Iffy+
+To categorize tweets as low credibility, we utilize the [Iffy+ Misinfo/Disinfo list](https://iffy.news/iffy-plus/) created by [Iffy.news](https://iffy.news/). As stated on the Iffy+ page, "_Iffy+ merges lists of sites that regularly publish mis/disinformation, as identified by major fact-checking and journalism organizations, into a single dataset._" Please checkout [the description](https://iffy.news/iffy-plus/) of the list for more information.
+
 ## Paper
 More details on the data collection can be found in our paper describing the collection of English-language Twitter posts about COVID-19 vaccines:
 
