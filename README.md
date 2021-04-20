@@ -1,4 +1,4 @@
-# CoVaxxy: A global collection of English-language Twitter posts about COVID-19 vaccines 
+# CoVaxxy: A collection of English-language Twitter posts about COVID-19 vaccines 
 
 This project, conducted by Indiana University’s Observatory on Social Media (OSoMe) in collaboration with colleagues from Politecnico di Milano, aims to track and investigate how online information impacts COVID-19 vaccine uptake and health outcomes. We offer public access to a [large collection of vaccine-related tweets](https://zenodo.org/record/4540312#.YClLsGNOlhE) that are gathered in real-time and updated daily (see our [data collection paper](https://arxiv.org/abs/2101.07694) for more details). We combine this with [vaccine uptake and survey data](#dashboard) to create the [CoVaxxy dashboard](http://osome.iu.edu/tools/covaxxy), a web-page that allows anyone to visualize descriptive statistics and preliminary results,
 
@@ -20,7 +20,7 @@ To categorize tweets as low credibility, we utilize the [Iffy+ Misinfo/Disinfo l
 ## Paper
 More details on the data collection can be found in our paper describing the collection of English-language Twitter posts about COVID-19 vaccines:
 
-* [Matthew R. DeVerna](https://www.matthewdeverna.com/), [Francesco Pierri](https://frapierri.github.io), [Bao Truong](https://btrantruong.github.io/), [John Bollenbacher](https://jbollenbacher.github.io/), [David Axelrod](https://cns-nrt.indiana.edu/students/trainees/2019/David-Axelrod.html), Niklas Loynes, [Cristopher Torres-Lugo](http://christorreslugo.com/), [Kai-Cheng Yang](http://www.kaichengyang.me/), [Fil Menczer](https://cnets.indiana.edu/fil/), and [John Bryden](http://jbryden.co.uk/home/) (2021) **"CoVaxxy: A global collection of English Twitter posts about COVID-19 vaccines."** Preprint arXiv:2101.07694 https://arxiv.org/abs/2101.07694
+* [Matthew R. DeVerna](https://www.matthewdeverna.com/), [Francesco Pierri](https://frapierri.github.io), [Bao Truong](https://btrantruong.github.io/), [John Bollenbacher](https://jbollenbacher.github.io/), [David Axelrod](https://cns-nrt.indiana.edu/students/trainees/2019/David-Axelrod.html), Niklas Loynes, [Cristopher Torres-Lugo](http://christorreslugo.com/), [Kai-Cheng Yang](http://www.kaichengyang.me/), [Fil Menczer](https://cnets.indiana.edu/fil/), and [John Bryden](http://jbryden.co.uk/home/) (2021) **"CoVaxxy: A collection of English Twitter posts about COVID-19 vaccines."** Preprint arXiv:2101.07694 https://arxiv.org/abs/2101.07694
 
 If you use this data, please cite this reference paper.
 
